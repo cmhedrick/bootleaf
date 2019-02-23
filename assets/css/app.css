@@ -102,6 +102,9 @@ input[type="radio"], input[type="checkbox"] {
 .navbar-header a.navbar-icon {
     margin-left: 25px;
 }
+.nav-item .nav-link .nav-bar-icon {
+    margin-right: 1vw;
+}
 .typeahead {
     background-color: #FFFFFF;
 }
